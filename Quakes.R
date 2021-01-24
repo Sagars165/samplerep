@@ -51,7 +51,8 @@ boxplot(quakes[,1:5])
 boxplot(quakes$stations)
 
 
-#bus ajj ke liye itna kafi h thank you
+#bus ajj ke liye itna hi 
+#thank you
 
 
 
